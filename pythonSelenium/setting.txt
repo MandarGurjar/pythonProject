@@ -1,1 +1,2 @@
-VideoLink: watch?v=KXAmk6MnZUI
+Browser: Chrome
+URL: https://www.google.com/
